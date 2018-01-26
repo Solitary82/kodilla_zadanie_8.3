@@ -1,8 +1,3 @@
-body {
-    background-color: #ccc;
-}
+body { background-color: #ccc; }
 
-h1 {
-    text-align: center;
-    text-transform: uppercase;
-}
+h1 { text-align: center; text-transform: uppercase; }
